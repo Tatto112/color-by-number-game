@@ -4,49 +4,23 @@
   
     {
       "category": "Anime",
-      "label": "Arcane",
-      "total": 3
+      "total": 60
     },
 	    {
-      "category": "Anime",
-      "label": "Attack On Titan",
-      "total": 3
+      "category": "Cities",
+      "total": 10
     },
 	    {
-      "category": "Anime",
-      "label": "Bey Blade",
-      "total": 2
+      "category": "Interior",
+      "total": 10
     },
 	    {
-      "category": "Anime",
-      "label": "Demon Slayer",
-      "total": 1
+      "category": "Mandalas",
+      "total": 10
     },
 	    {
-      "category": "Anime",
-      "label": "Dragon Ball",
-      "total": 2
-    },
-	    {
-      "category": "Anime",
-      "label": "Jujutsu Kaisen",
-      "total": 3
-    },
-	    {
-      "category": "Anime",
-      "label": "Naruto",
-      "total": 1
-    },
-	{
-      "category": "Anime",
-      "label": "Lion",
-      "total": 1
-    },
-	{
-      "category": "Anime",
-      "label": "Girl",
-      "total": 1
+      "category": "Nature",
+      "total": 10
     }
-	
-  ]
-}
+]}
+	  
