@@ -3,6 +3,11 @@
   "images": [
   
     {
+      "category": "Banners",
+      "total": 1
+    },
+  
+    {
       "category": "Anime",
       "total": 60
     },
