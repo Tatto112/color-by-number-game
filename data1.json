@@ -14,18 +14,22 @@
     },
 	    {
       "category": "Cities",
+	  "premium": [2,4],
       "total": 10
     },
 	    {
       "category": "Interior",
+	  "premium": [2,4],
       "total": 10
     },
 	    {
       "category": "Mandalas",
+	  "premium": [2,4],
       "total": 10
     },
 	    {
       "category": "Nature",
+	  "premium": [2,4],
       "total": 10
     }
 ]}
