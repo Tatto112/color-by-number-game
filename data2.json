@@ -6,6 +6,11 @@
       "category": "Banners",
       "total": 5
     },
+	{
+      "category": "Portraits",
+	  "premium": [],
+      "total": 30
+    },
     {
       "category": "Fantasy",
 	  "premium": [2,4],
